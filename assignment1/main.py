@@ -1,5 +1,5 @@
 # -----------------------------------------------------------
-# Name:punit kumar
+# Name:Mitesh Malik
 # Date: 5 november 2025
 # Project Title: Daily Calorie Tracker CLI
 # -----------------------------------------------------------
